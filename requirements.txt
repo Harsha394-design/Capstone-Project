@@ -1,0 +1,6 @@
+flask
+opencv-python
+mediapipe
+sounddevice
+numpy
+matplotlib
